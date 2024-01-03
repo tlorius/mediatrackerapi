@@ -1,0 +1,54 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Minecraft",
+      "description": "HUH",
+      "image": "link",
+      "personal rating": 10
+    },
+    {
+      "id": 2,
+      "name": "Cyberpunk 2077",
+      "description": "Turned out okay",
+      "image": "imagelink",
+      "personal rating": 7
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Lord of the Rings - Return of the king",
+      "personal rating": 9
+    },
+    {
+      "id": 2,
+      "title": "V for Vendetta",
+      "personal rating": 8.5
+    }
+  ],
+  "shows": [
+    {
+      "id": 1,
+      "title": "Breaking Bad",
+      "personal rating": 9
+    },
+    {
+      "id": 2,
+      "title": "Person of Interest",
+      "personal rating": 8.5
+    }
+  ],
+  "lists": [
+    {
+      "id": 1,
+      "type": "movies",
+      "content": [1, 2]
+    },
+    {
+      "id": 2,
+      "type": "games",
+      "content": [2]
+    }
+  ]
+}
